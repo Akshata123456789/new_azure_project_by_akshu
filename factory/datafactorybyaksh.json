@@ -1,0 +1,15 @@
+{
+	"name": "datafactorybyaksh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64f8900c-3c5d-4086-9057-e5b19acc93f0",
+		"tenantId": "cd0afadf-f27a-4f10-b6bf-db75b06bb690"
+	}
+}
